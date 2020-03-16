@@ -1,0 +1,6 @@
+# ignore files because its not useful
+# like node_modules
+node_modules
+font-awesome-4.7.0
+font-awesome-4.7.0.zip
+orders.txt
